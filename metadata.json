@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Калькулятор размеров комнат",
+  "description": "Интерактивная таблица для расчета площадей стен, окон, дверей и полов комнат двухэтажного дома для планирования ремонта",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
